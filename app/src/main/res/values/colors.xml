@@ -1,0 +1,7 @@
+<resources>
+    <color name="icon_background">#00695C</color>
+
+    <color name="due_urgent">#C62828</color>
+    <color name="due_soon">#B26A00</color>
+    <color name="due_later">#2E7D32</color>
+</resources>

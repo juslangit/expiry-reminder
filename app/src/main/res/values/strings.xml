@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Expiry Reminder</string>
+
+    <string name="empty_list">Nothing to track yet.\nTap Add to enter something that expires.</string>
+    <string name="add">Add</string>
+    <string name="add_item">Add item</string>
+    <string name="edit_item">Edit item</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="name_hint">Name (e.g. Passport)</string>
+    <string name="name_required">Enter a name</string>
+    <string name="category_label">Category</string>
+    <string name="date_label">Expiry date</string>
+
+    <string name="row_details">%1$s · %2$s</string>
+    <string name="expires_today">Expires today</string>
+    <string name="expires_tomorrow">Expires tomorrow</string>
+    <string name="expires_in_days">Expires in %1$d days</string>
+    <plurals name="expired_days_ago">
+        <item quantity="one">Expired %1$d day ago</item>
+        <item quantity="other">Expired %1$d days ago</item>
+    </plurals>
+
+    <string name="channel_name">Expiry reminders</string>
+    <string name="channel_description">Reminders 30, 7 and 1 days before something expires, and on the day</string>
+    <string name="notification_text">%1$s (%2$s)</string>
+
+    <string-array name="categories">
+        <item>Document</item>
+        <item>Vehicle</item>
+        <item>Insurance</item>
+        <item>Warranty</item>
+        <item>Medicine</item>
+        <item>Food</item>
+        <item>Subscription</item>
+        <item>Other</item>
+    </string-array>
+</resources>

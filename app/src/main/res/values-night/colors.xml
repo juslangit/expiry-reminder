@@ -1,0 +1,5 @@
+<resources>
+    <color name="due_urgent">#EF9A9A</color>
+    <color name="due_soon">#FFCC80</color>
+    <color name="due_later">#A5D6A7</color>
+</resources>
